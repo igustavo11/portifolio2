@@ -77,11 +77,11 @@ export class ProjectsComponent {
     title:"Site Institucional",
     width:'100px',
     height:'51px',
-    description:'<p>Projeto construido para servir de site institucional a uma construtora nos Estados Unidos, feito em javascript vanilha e css, projeto ainda falta ser terminado. </p>',
+    description:'<p>Projeto construido para servir de site institucional a uma construtora nos Estados Unidos, feito em javascript vanilha e css </p>',
     links: [
       {
         name:'Conheça Força Builders',
-        href:'https://foracabuildersteste.netlify.app/'
+        href:'https://www.forcabuilders.com/'
       },
     ],
   },
