@@ -85,20 +85,7 @@ export class ProjectsComponent {
       },
     ],
   },
-  {
-    src:'assets/img/projects/primecine.png',
-    alt:"Projeto Site filmes",
-    title:"Projeto em react",
-    width:'60px',
-    height:'51px',
-    description:'<p>Projeto de estudo em react consumindo uma api publica de filmes, onde ficam salvos os seus filmes favoritos na localstorage!</p>',
-    links: [
-      {
-        name:'Conheça Prime Cine',
-        href:'https://primecine.vercel.app/'
-      },
-    ],
-  },
+  
  ]);
 
  public openDialog(data: IProjects){
